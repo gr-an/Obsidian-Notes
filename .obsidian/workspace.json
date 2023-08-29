@@ -11,10 +11,8 @@
             "id": "32905b713fc4f5c1",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Screenshot from 2023-08-28 15-27-13.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Screenshot from 2023-08-28 15-27-13.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Screenshot from 2023-08-28 15-27-13.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Images/Screenshot from 2023-08-28 15-27-13.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,28 +139,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7cf9dcd2e861af3d",
+  "active": "32905b713fc4f5c1",
   "lastOpenFiles": [
+    "CS/Operating Systems/Linux Commands/List of all commands.md",
+    "CS/Operating Systems/Linux Commands/gunzip command.md",
+    "CS/Operating Systems/General Info/Obtain Kernel Config from Currently Running Linux System.md",
+    "CS/Operating Systems/Linux Commands/pipe.md",
+    "CS/Operating Systems/Linux Commands/cat command.md",
+    "CS/Operating Systems/Linux Commands/zcat command.md",
+    "CS/Operating Systems/Linux.md",
+    "CS/Operating Systems/Linux Commands",
+    "CS/Operating Systems/Practice/Notes for Linux Kernel Programming/Compile and Boot.md",
+    "CS/Operating Systems/General Info",
+    "CS/Operating Systems/Practice/Notes for Linux Kernel Programming/Kernel Modules.md",
+    "CS/Operating Systems/Practice/Notes for Linux Kernel Programming/Notes for Linux Kernel Programming.md",
+    "CS/Operating Systems/Practice/Notes for Linux Kernel Programming/Build a minimal Linux with Busybox.md",
+    "CS/Operating Systems/Practice/Notes for Practice.md",
+    "CS/Operating Systems/Practice/Notes for Linux Kernel Programming/Drivers.md",
+    "CS/Operating Systems/Practice/Notes for Linux Kernel Programming/Preparations.md",
+    "PDF/how-linux-works.pdf",
+    "CS/Operating Systems/Practice/Notes for Linux Kernel Programming/Utled",
+    "CS/Operating Systems/Practice/Notes for Linux Kernel Programming",
     "Interview/Linux/What is LILO.md",
     "Interview/Linux/Linux Interview Questions.md",
+    "Images/Screenshot from 2023-08-28 15-27-13.png",
     "Interview/Linux/Collection of simple Questions.md",
-    "CS/Operating Systems/Practice/Notes for Practice.md",
     "CS/Operating Systems/Practice/Notes for Bandit.md",
     "CS/Operating Systems/Notes For Books/\"How Linux Works\"/Levels and Layers of Abstraction in Linux system.md",
     "CS/Operating Systems/Notes For Books/\"How Linux Works\"/\"How Linux Works\" - Brian Ward.md",
-    "PDF/how-linux-works.pdf",
     "CS/Operating Systems/Notes for Linux Kernel.md",
-    "CS/Operating Systems/Linux.md",
     "CS/Operating Systems/Notes For Books/\"How Linux Works\"",
-    "Images/Screenshot from 2023-08-28 15-27-13.png",
     "Images",
     "Interview/Linux",
     "Interview",
     "CS/Operating Systems/Notes For Books/---.md",
-    "CS/Operating Systems/Notes For Books",
-    "PDF/Unconfirmed 121824.crdownload",
-    "PDF",
-    "CS/Operating Systems/Practice",
-    "CS/Operating Systems"
+    "CS/Operating Systems/Notes For Books"
   ]
 }
