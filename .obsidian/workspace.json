@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "927976169ede23a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory of Probability/Random Experiments and Their Outcomes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Theory of Probability/Random Experiments and Their Outcomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Theory of Probability/Random Experiments and Their Outcomes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Theory of Probability/Random Experiments and Their Outcomes.md"
+              }
             }
           }
         ]
@@ -139,8 +156,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32905b713fc4f5c1",
+  "active": "927976169ede23a2",
   "lastOpenFiles": [
+    "Theory of Probability/Theory of probability.md",
+    "Theory of Probability/Random Experiments and Their Outcomes.md",
+    "Theory of Probability",
     "CS/Operating Systems/Notes for Linux Kernel.md",
     "CS/Operating Systems/Linux.md",
     "CS/Operating Systems/Practice/Notes for Practice.md",
@@ -172,7 +192,6 @@
     "Images",
     "Interview/Linux",
     "Interview",
-    "CS/Operating Systems/Notes For Books/---.md",
-    "CS/Operating Systems/Notes For Books"
+    "CS/Operating Systems/Notes For Books/---.md"
   ]
 }
